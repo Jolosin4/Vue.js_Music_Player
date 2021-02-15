@@ -1,4 +1,4 @@
-# spotif
+# My Music Player
 
 ## Project setup
 ```
